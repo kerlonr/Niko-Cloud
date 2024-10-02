@@ -4,6 +4,9 @@
     flex-direction: column;
     margin-bottom: 5px;
   }
+  .logo {
+    margin-right: 0px;
+  }
 
   .botao {
     margin-top: 5px;
